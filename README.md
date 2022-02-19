@@ -42,7 +42,7 @@ Simply run the .c file
 <a name="item3"></a>
 
 ## Screenshots:
-!(Images/0.JPG)
+![](Images/0.JPG)
 (Images/1.JPG)
 (Images/2.JPG)
 (Images/3.JPG)
