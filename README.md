@@ -1,4 +1,4 @@
-<p align="center"><a><img src="Images/0.JPG" width="400"></a></p>
+<p align="center"><a><img src="Images/1.JPG" width="600"></a></p>
 
 # Forum:
 IUT Search Bot is a chatbot for The ICFAI University Tripura to help new students to know about the college.
@@ -42,7 +42,7 @@ Simply run the .c file
 <a name="item3"></a>
 
 ## Screenshots:
-
+!(Images/0.JPG)
 (Images/1.JPG)
 (Images/2.JPG)
 (Images/3.JPG)
