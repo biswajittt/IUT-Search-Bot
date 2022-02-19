@@ -1,6 +1,6 @@
+<h1 align="center">Chatbot by C language</h1>
 <p align="center"><a><img src="Images/1.JPG" width="600"></a></p>
-
-# Forum:
+# IUT Search Bot:
 IUT Search Bot is a chatbot for The ICFAI University Tripura to help new students to know about the college.
 
 -----
