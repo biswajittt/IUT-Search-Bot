@@ -14,7 +14,7 @@ IUT Search Bot is a chatbot for The ICFAI University Tripura to help new student
 
 ## IUT Search Bot Overview:
 <h3>
-IUT Search Bot is a chatbot for The ICFAI University Tripura to help new students to know about the college by C language. Students can know about fee structure, admission details, hostel facilities, mess food, faculty, scholarships, placements, internship etc.
+IUT Search Bot is a chatbot for The ICFAI University Tripura to help new students to know about the college created by using C language. Students can know about fee structure, admission details, hostel facilities, mess food, faculty, scholarships, placements, internship etc.
 </h3>
 -----
 <a name="item2"></a>
